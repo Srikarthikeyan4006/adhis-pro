@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939296815387",
+    "firebase_url": "https://srp-project-bcfa6.firebaseio.com",
+    "project_id": "srp-project-bcfa6",
+    "storage_bucket": "srp-project-bcfa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939296815387:android:86fa9af713c01a9f133bbe",
+        "android_client_info": {
+          "package_name": "com.srp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939296815387-ahpuhib5ecl2ce989tej17f4c889cgl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srp",
+            "certificate_hash": "aa3b9d6f5d1535b6fec78fd29b7f06cb6cef0096"
+          }
+        },
+        {
+          "client_id": "939296815387-22nnbagmpfmfet7jp6ful8ml05cbbd0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDpqTR_aO9ODAfBViKhcUYtngvuIWmmIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939296815387-22nnbagmpfmfet7jp6ful8ml05cbbd0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
